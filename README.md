@@ -33,4 +33,4 @@ I'm currently studying Btech in Artificial Intelligence and Machine Learning <br
 <br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuktha-c-reddy&show_icons=true&locale=en" alt="yuktha-c-reddy" /></p>
 <br>
-<p><br><br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuktha-c-reddy&" alt="yuktha-c-reddy" /></p>
+<p><br><br><br><br><br><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yuktha-c-reddy&" alt="yuktha-c-reddy" /></p>
