@@ -3,6 +3,7 @@
 <h3 align="center">A passionate techie who believes in consistency>>motivation!</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Ffemale-programmer&psig=AOvVaw3LelqOrIGyiHsx5hC8-d5y&ust=1690170059083000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICNiaL0o4ADFQAAAAAdAAAAABAE">
 I'm currently studying Btech in Artificial Intelligence and Machine Learning in UVCE , Bengaluru
+<br>
 - 🔭 I’m currently working on [Code Chronicles](yuktha-c-reddy / Code-Chronicles)
 
 - 🌱 I’m currently learning **Python for Machine Learning**
