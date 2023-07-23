@@ -1,7 +1,7 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcolorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_12821890.htm&psig=AOvVaw0FOS2RCnrBJ5NN3DSeK61n&ust=1690170240214000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOD7pfj0o4ADFQAAAAAdAAAAABAE)](https://github.com/yuktha-c-reddy/)
 <h1 align="center">Hi 👋, I'm Yuktha Reddy</h1>
 <h3 align="center">A passionate techie who believes in consistency>>motivation!</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Ffemale-programmer&psig=AOvVaw3LelqOrIGyiHsx5hC8-d5y&ust=1690170059083000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICNiaL0o4ADFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/yuktha-c-reddy/yuktha-c-reddy/assets/70469290/7d831aef-d5b1-4d66-b0cd-ca860ccf7664)">
 I'm currently studying Btech in Artificial Intelligence and Machine Learning in UVCE , Bengaluru
 <br>
 - 🔭 I’m currently working on [Code Chronicles](yuktha-c-reddy / Code-Chronicles)
