@@ -12,7 +12,7 @@ I'm currently studying Btech in Artificial Intelligence and Machine Learning <br
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **yuktha.c0@gmail.com**
+- 📫 How to reach me **yuktha.c04@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yuktha-c-reddy/](https://www.linkedin.com/in/yuktha-c-reddy/)
 
