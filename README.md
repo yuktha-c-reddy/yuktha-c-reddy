@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcolorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_12821890.htm&psig=AOvVaw0FOS2RCnrBJ5NN3DSeK61n&ust=1690170240214000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOD7pfj0o4ADFQAAAAAdAAAAABAE)](https://github.com/yuktha-c-reddy/)
+![logo](https://github.com/yuktha-c-reddy/yuktha-c-reddy/blob/main/White%20Beige%20Minimalist%20Fashion%20Youtube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Yuktha Reddy</h1>
 <h3 align="center">A passionate techie who believes in consistency>>motivation!</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
