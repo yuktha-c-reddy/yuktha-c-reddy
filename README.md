@@ -17,7 +17,6 @@ I'm currently studying Btech in Artificial Intelligence and Machine Learning <br
 
 - ⚡ Fun fact **Humour makes life easy!**
 <br><br>
-<h3 align="left">Connect with me:</h3>
 
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
